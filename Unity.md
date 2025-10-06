@@ -1,6 +1,6 @@
 https://github.com/joao16mariano/Unity3/releases/tag/v1.0/Unity.rar
 
-# 🎮 Jogo Unity - Mariano
+# 🎮 Jogo Unity - João Mariano
 
 Primeira versão jogável do projeto feito em Unity.
 
