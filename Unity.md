@@ -14,7 +14,8 @@ Primeira versão jogável do projeto feito em Unity.
 
 ⚠️ Obs: Compatível apenas com **Windows 64 bits**.
 
-##[Caixa de Agua] (https://quarto-4328c.web.app/principal.html)
+##[Caixa de Agua]
+(https://quarto-4328c.web.app/principal.html)
 ---
 
 ## ℹ️ Informações
